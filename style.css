@@ -507,6 +507,7 @@ height: 250px;
     text-decoration: none;
     font-size: 14px;
     color: #93a1a7;
+    z-index: 999;
 }
 .address{
     color: #4b4e52;
